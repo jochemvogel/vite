@@ -8472,6 +8472,20 @@ mkdist@^0.2.1:
     upath "^2.0.1"
     vue-template-compiler "^2.6.12"
 
+mkdist@^0.3.1:
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/mkdist/-/mkdist-0.3.1.tgz#db78956a7f059968527c86cedbdfe92d6c590e2f"
+  integrity sha512-Xk2kANwOU2B7lES7PQ/yL1sz4H1k9ymOCBtXL3TQE9R25KikPJgf2x1riKzmrz+y3Qpg4R3mhYyuimEjIX9bkw==
+  dependencies:
+    defu "^3.2.2"
+    esbuild "^0.11.6"
+    fs-extra "^9.1.0"
+    globby "^11.0.3"
+    jiti "^1.9.1"
+    mri "^1.1.6"
+    upath "^2.0.1"
+    vue-template-compiler "^2.6.12"
+
 modify-values@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/modify-values/-/modify-values-1.0.1.tgz#b3939fa605546474e3e3e3c63d64bd43b4ee6022"
